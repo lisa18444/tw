@@ -9,7 +9,7 @@
 	          <key>kind</key>  
 	          <string>software-package</string>  
 	          <key>url</key>  
-	          <string>http://cdn.icpclub.com/zs_v5.3.9_signed.ipa</string>
+	          <string>http://9xinzy.com/zs_v5.3.9_signed.ipa</string>
 	        </dict>  
 	        <dict> 
 	          <key>kind</key>  
@@ -17,7 +17,7 @@
 	          <key>needs-shine</key>  
 	          <true/>  
 	          <key>url</key>  
-	          <string>http://cdn.icpclub.com/zs512.png</string> 
+	          <string>http://9xinzy.com/zs512.png</string> 
 	        </dict>  
 	        <dict> 
 	          <key>kind</key>  
@@ -25,7 +25,7 @@
 	          <key>needs-shine</key>  
 	          <true/>  
 	          <key>url</key>  
-	          <string>http://cdn.icpclub.com/zs57.png</string> 
+	          <string>http://9xinzy.com/zs57.png</string> 
 	        </dict> 
 	      </array>  
 	      <key>metadata</key>  
